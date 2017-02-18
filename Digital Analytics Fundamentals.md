@@ -25,16 +25,23 @@ Previously: Purchase Funnel
 * Retention
 
 **Customers:** With the consumer increasingly in control, the linear purchase funnel is no longer relevant. The customer is at the center of the universe. Customers can start their purchase journey at any point along their decision path. This can only be achieved by analyzing the customer, not the device or channel.
+
 **Quantitative data:** With technological advances, you can get a comprehensive view across all the touchpoints consumers have with your business. No silos, artifical walls between touchpoints are eliminated.
+
 **Qualitative data:** Additional data (like surveys) that cannot be captured with quantitative measures alone.
+
 **Outcomes:** There are five common desired outcomes for a digital business:
+
 1. *Ecommerce:* Selling products or service
 2. *Lead Generation:* Collect User Information for sales teams
 3. *Content Publishing:* Engagement/Frequent Visitation -> Ads shown
 4. *Online Support:* Help customers find the right information at the right time
 5. *Branding:* Drive awareness and engagement
+
 There are key actions on any application that tie back to our desired outcomes -> Macro Conversion. There are also indicators that a customer has not reached the desired outcome, but is coming closer (Ecommerce: Signing up for a newsletter or coupon) -> Micro conversion.  
+
 **Continual improvement:** 
+
 1. Measure
 2. Report (to decision makers)
 3. Analyze (Build hypothesis)
