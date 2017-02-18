@@ -1,13 +1,10 @@
-# Google Analytics Individual Qualification
-Document contains the notes for passing the Google Individual Qualification. Feel free to use for your own purposes.
+# Digital Analytics Fundamentals
 
-## Digital Analytics Fundamentals
-
-### Getting started
+## Getting started
 
 Major trends that drive change for any business:
 
-1. **The Internet** makes information and media available at the click of a buttob
+1. **The Internet** makes information and media available at the click of a button
 2. **Mobile** connects nearly everyone 24x7
 3. **Cloud Computing** provides cheap, practically infinite computing power.
 
@@ -25,8 +22,4 @@ Previously: Purchase Funnel
 * Conversion
 * Retention
 
-With the consumer increasingly in control, the purchase funnel is no longer relevant.
-
-
-
-#### 
+With the consumer increasingly in control, the purchase funnel is no longer relevant. 
